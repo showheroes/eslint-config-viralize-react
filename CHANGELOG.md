@@ -7,3 +7,8 @@
 ## 1.0.1
 
 - first version of REACT rules
+
+## 2.0.0
+
+- deprecated version 1.0.0 due to a config error
+- released fixed version
