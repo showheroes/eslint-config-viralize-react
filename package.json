@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-viralize-react",
-  "version": "3.0.0",
+  "version": "4.0.0",
   "description": "Viralize react eslint rules",
   "repository": {
     "type": "git",
@@ -28,7 +28,7 @@
     "eslint-plugin-import": "^2.14.0",
     "eslint-plugin-jsx-a11y": "^6.1.2",
     "eslint-plugin-react": "^7.11.1",
-    "eslint-config-viralize-common": "^2.0.0",
+    "eslint-config-viralize-common": "^3.0.0",
     "eslint-config-viralize-es6": "^2.0.0"
   },
   "devDependencies": {
