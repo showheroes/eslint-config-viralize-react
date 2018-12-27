@@ -1,19 +1,23 @@
 # Changelog
 
-## 1.0.0
+## 4.0.0
 
-- deprecated
+- updated viralize-common rules version
 
-## 1.0.1
+## 3.0.0
 
-- first version of REACT rules
+- deprecated version 2.0.0 due to a config error
+- released fixed version
 
 ## 2.0.0
 
 - deprecated version 1.0.0 due to a config error
 - released fixed version
 
-## 3.0.0
+## 1.0.1
 
-- deprecated version 2.0.0 due to a config error
-- released fixed version
+- first version of REACT rules
+
+## 1.0.0
+
+- deprecated
