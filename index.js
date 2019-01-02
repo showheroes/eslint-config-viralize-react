@@ -6,6 +6,7 @@ module.exports = {
     rules: {
         'jsx-a11y/label-has-for': 'off',
         'jsx-a11y/no-static-element-interactions': 'off',
-        'react/jsx-filename-extension': 'off'
+        'react/jsx-filename-extension': 'off',
+        'react/destructuring-assignment': 'off'
     }
 };
