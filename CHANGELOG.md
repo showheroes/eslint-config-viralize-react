@@ -1,5 +1,12 @@
 # Changelog
 
+## 5.0.0
+
+- Updated viralize-common rules to version 5.0.3
+- Updated viralize-react rules to version 4.0.2
+- Change release command to update package-lock.json on release
+- Allow to use directly object/array and array instead of force destructuring
+
 ## 4.0.0
 
 - updated viralize-common rules version
