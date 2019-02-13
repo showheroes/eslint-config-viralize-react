@@ -1,5 +1,9 @@
 # Changelog
 
+## 7.0.0
+
+- Updated viralize-common rules to version 6.0.0
+
 ## 6.0.0
 
 - Use an indentation of 2 space for html in jsx
