@@ -1,5 +1,8 @@
 # Changelog
 
+## 8.0.4
+
+- Fix broken release on npm registry
 
 ## 8.0.3
 
