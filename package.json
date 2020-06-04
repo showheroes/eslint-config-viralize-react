@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-viralize-react",
-  "version": "7.0.0",
+  "version": "8.0.1",
   "description": "Viralize react eslint rules",
   "repository": {
     "type": "git",
@@ -25,20 +25,22 @@
   "peerDependencies": {
     "eslint": "5.13.0",
     "eslint-config-airbnb": "17.1.0",
-    "eslint-config-viralize-common": "6.0.0",
-    "eslint-config-viralize-es6": "5.0.0",
-    "eslint-plugin-import": "2.16.0",
+    "eslint-config-viralize-common": "7.0.0",
+    "eslint-config-viralize-es6": "6.0.0",
+    "eslint-plugin-import": "2.20.2",
     "eslint-plugin-jsx-a11y": "6.2.1",
     "eslint-plugin-react": "7.12.4"
   },
   "devDependencies": {
     "babel-eslint": "10.0.1",
-    "eslint": "5.13.0",
-    "eslint-config-airbnb": "17.1.0",
-    "eslint-plugin-import": "2.16.0",
-    "eslint-plugin-jsx-a11y": "6.2.1",
-    "eslint-plugin-react": "7.12.4",
-    "release-it": "8.2.0",
+    "eslint": "^5.13.0",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-config-viralize-common": "^7.0.0",
+    "eslint-config-viralize-es6": "^6.0.0",
+    "eslint-plugin-import": "^2.20.2",
+    "eslint-plugin-jsx-a11y": "^6.2.1",
+    "eslint-plugin-react": "^7.12.4",
+    "release-it": "^13.6.2",
     "semver": "5.6.0"
   }
 }
