@@ -4,6 +4,7 @@
 
 - Peer dependencies are now compatible with eslint 6 & 7
 - Fix indent ignore for jsx element
+- Extend plugin:react-hooks/recommended
 
 ## 8.0.4
 
